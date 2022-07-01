@@ -189,5 +189,3 @@ transferencia de potencia máxima en el circuito de la figura 8-86?
 - ![image](https://user-images.githubusercontent.com/105893980/176815525-0b9a79ce-bce1-40ef-b6da-5c26d33510f2.png)
 - SECCIÓN 8–8 Conversiones delta a Y ( a Y) y Y a
 34. En la figura 8-88, convierta cada red delta en una red Y.
-
-- 
